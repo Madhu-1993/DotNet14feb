@@ -1,0 +1,17 @@
+
+
+.bg-color {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-rounded {
+    border-radius: 30px;
+}
+.card {
+    background: space;
+    display: inline;
+}
+footer {
+    margin-bottom: auto;
+}
